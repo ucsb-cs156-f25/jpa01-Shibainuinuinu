@@ -1,6 +1,6 @@
 # jpa01-shibainuinuinu
 
-Deployed at: https://jpa01-shibainuinuinu.dokku-15.cs.ucsb.edu/
+Deployed at: https://jpa01-shibainuinuinu.dokku-15.cs.ucsb.edu
 
 
 # About this repo
